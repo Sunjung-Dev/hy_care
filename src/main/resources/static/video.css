@@ -1,0 +1,158 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    font-size: 14px;
+}
+.top {
+    width: 100%;
+    height: 795px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+}
+.top_list {
+    width: 100%;
+    height: 93px;
+    /*background: url("../images/v39_426.png");*/
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+}
+.bar {
+    width: 100%;
+    height: 93px;
+    background: rgba(50,205,50,1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+}
+.project_info {
+    width: 182px;
+    height: 47px;
+    /*background: url("../images/v39_428.png");*/
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 22px;
+    left: 127px;
+    overflow: hidden;
+}
+.project_name {
+    width: 182px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-family: DM Sans;
+    font-weight: Medium;
+    font-size: 36px;
+    opacity: 1;
+    text-align: left;
+}
+.menu {
+    width: 596px;
+    height: 31px;
+    background: url("../images/v39_430.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 33px;
+    left: 494px;
+    overflow: hidden;
+}
+.home {
+    width: 23px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-family: DM Sans;
+    font-weight: Bold;
+    font-size: 24px;
+    opacity: 1;
+    text-align: center;
+}
+.chatting {
+    width: 89px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 0px;
+    left: 373px;
+    font-family: DM Sans;
+    font-weight: Bold;
+    font-size: 24px;
+    opacity: 1;
+    text-align: center;
+}
+.video {
+    width: 89px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 0px;
+    left: 507px;
+    font-family: DM Sans;
+    font-weight: Bold;
+    font-size: 24px;
+    opacity: 1;
+    text-align: center;
+}
+.guid {
+    width: 67px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 0px;
+    left: 103px;
+    font-family: DM Sans;
+    font-weight: Bold;
+    font-size: 24px;
+    opacity: 1;
+    text-align: center;
+}
+.self_diag {
+    width: 89px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 0px;
+    left: 227px;
+    font-family: DM Sans;
+    font-weight: Bold;
+    font-size: 24px;
+    opacity: 1;
+    text-align: center;
+}
+.video_message {
+    width: 100%;
+    color: rgba(91,91,91,1);
+    position: absolute;
+    top: 445px;
+    left: 266px;
+    font-family: DM Sans;
+    font-weight: Bold;
+    font-size: 19px;
+    opacity: 1;
+    text-align: left;
+}
+.logo {
+    width: 48px;
+    height: 48px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 22px;
+    left: 35px;
+}
