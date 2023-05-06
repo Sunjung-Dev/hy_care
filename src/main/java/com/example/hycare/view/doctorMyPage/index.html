@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html xmlns:text-align="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css?family=Inter&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=DM+Sans&display=swap" rel="stylesheet" />
+    <link href="./css/main.css" rel="stylesheet" />
+    <title>Doctor Mypage</title>
+</head>
+<body>
+<div class="doctorPage">
+    <div class="navBar">
+        <div class="v12_15"></div>
+        <div class="logo">
+            <span class="logoText">Hy-care</span>
+        </div>
+        <div class="menu">
+            <span class="home">홈</span>
+            <span class="chat">채팅상담</span>
+            <span class="stt">화상상담</span>
+            <span class="guide">가이드</span>
+            <span class="self">자가진단</span>
+        </div>
+        <span class="memberName">000님</span>
+    </div>
+    <div class="searchBar">
+        <div class="v20_244"></div>
+        <div class="searchName">
+            <span class="nameText">이름</span>
+            <input type="text" class="name" style="text-align: center">
+        </div>
+        <div class="searchPhoneNum">
+            <span class="phoneNumText">전화번호</span>
+            <input type="text" class="phoneNum" style="text-align: center">
+        </div>
+        <div class="searchDiag">
+            <span class="diagDateText">진료 일자</span>
+            <input type="date" class="diagDate1" style="text-align: center">
+            <span class="fromTo">~</span>
+            <input type="date" class="diagDate2" style="text-align: center">
+        </div>
+        <div class="v57_687">
+        <div class="v57_686"></div>
+    </div>
+    </div>
+    <table class="doctorTbl">
+        <colgroup>
+            <col >
+            <col>
+            <col>
+            <col>
+        </colgroup>
+        <thead>
+        <tr>
+            <th class="name">이름</th>
+            <th class="phoneNum">전화번호</th>
+            <th class="diagDate">진료 일자</th>
+            <th class="aiHy">우울증 척도</th>
+        </tr>
+        </thead>
+        <tbody id="doctorTable"></tbody>
+    </table>
+</div>
+</body>
+</html>

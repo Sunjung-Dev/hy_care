@@ -1,0 +1,211 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+  overflow: scroll;
+}
+.SnsLogin {
+  width: 100%;
+  height: 795px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: scroll;
+}
+.SNS {
+  width: 710px;
+  height: 48px;
+  /*background: url("../images/v18_92.png");*/
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 438px;
+  left: 410px;
+  overflow: scroll;
+}
+.google {
+  width: 191px;
+  height: 46px;
+  background: url("../images/google.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: scroll;
+}
+.kakao {
+  width: 183px;
+  height: 45px;
+  background: url("../images/kakao.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 282px;
+  overflow: scroll;
+}
+.naver {
+  width: 156px;
+  height: 48px;
+  background: url("../images/naver.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 554px;
+  overflow: scroll;
+}
+.SnsLoginText {
+  width: 328px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 286px;
+  left: 609px;
+  font-family: DM Sans;
+  font-weight: Bold;
+  font-size: 40px;
+  opacity: 1;
+  text-align: center;
+}
+.Nav {
+  width: 100%;
+  height: 93px;
+  /*background: url("../images/v15_64.png");*/
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: visible;
+}
+.Navbar {
+  width: 100%;
+  height: 93px;
+  background: rgba(50,205,50,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: visible;
+}
+.menuBar {
+  width: 596px;
+  height: 31px;
+  /*background: url("../images/v15_68.png");*/
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 33px;
+  left: 494px;
+  overflow: visible;
+}
+.Home {
+  width: 23px;
+  color: rgba(255,255,255,1);
+  position: relative;
+  top: 0px;
+  left: 0px;
+  font-family: DM Sans;
+  font-weight: Bold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.Chat {
+  width: 89px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 0px;
+  left: 373px;
+  font-family: DM Sans;
+  font-weight: Bold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.Stt {
+  width: 89px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 0px;
+  left: 507px;
+  font-family: DM Sans;
+  font-weight: Bold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.Guide {
+  width: 67px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 0px;
+  left: 103px;
+  font-family: DM Sans;
+  font-weight: Bold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.Self {
+  width: 89px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 0px;
+  left: 227px;
+  font-family: DM Sans;
+  font-weight: Bold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.Logo {
+  width: 182px;
+  height: 47px;
+  /*background: url("../images/v15_66.png");*/
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 22px;
+  left: 127px;
+  overflow: scroll;
+}
+.LogoText {
+  width: 182px;
+  color: rgba(255,255,255,1);
+  position: relative;
+  top: 0px;
+  left: 0px;
+  font-family: DM Sans;
+  font-weight: Medium;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
+.v15_75 {
+  width: 48px;
+  height: 48px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 27px;
+  left: 59px;
+}

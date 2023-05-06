@@ -1,0 +1,216 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  width: 100%;
+  height: auto;
+  font-size: 14px;
+  overflow: scroll;
+}
+.logIn {
+  width: 100%;
+  height: auto;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: scroll;
+}
+.nav {
+  width: 100%;
+  height: 93px;
+  background: url("../images/v12_40.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: scroll;
+}
+.v12_41 {
+  width: 100%;
+  height: 93px;
+  background: rgba(50,205,50,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: scroll;
+}
+.logo {
+  width: 250px;
+  height: 48px;
+  background: url("../images/v12_43.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 22px;
+  left: 59px;
+  overflow: scroll;
+}
+.logoText {
+  width: 182px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 0px;
+  left: 68px;
+  font-family: DM Sans;
+  font-weight: Medium;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
+.menu {
+  width: 596px;
+  height: 31px;
+  /*background: url("../images/v12_45.png");*/
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 33px;
+  left: 494px;
+  overflow: scroll;
+}
+.home {
+  width: 23px;
+  color: rgba(255,255,255,1);
+  position: relative;
+  top: 0px;
+  left: 0px;
+  font-family: DM Sans;
+  font-weight: Bold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.chat {
+  width: 89px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 0px;
+  left: 373px;
+  font-family: DM Sans;
+  font-weight: Bold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.stt {
+  width: 89px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 0px;
+  left: 507px;
+  font-family: DM Sans;
+  font-weight: Bold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.guide {
+  width: 67px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 0px;
+  left: 103px;
+  font-family: DM Sans;
+  font-weight: Bold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.self {
+  width: 89px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 0px;
+  left: 227px;
+  font-family: DM Sans;
+  font-weight: Bold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.loginP {
+  width: 387px;
+  height: 450px;
+  /*background: url("../images/v23_586.png");*/
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 190px;
+  left: 830px;
+  overflow: scroll;
+}
+.doctor {
+  width: 369px;
+  height: 474px;
+  /*background: url("../images/v58_337.png");*/
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 166px;
+  left: 333px;
+  overflow: scroll;
+}
+.doctorLoginText {
+  width: 219px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 425px;
+  left: 64px;
+  font-family: Inter;
+  font-weight: Bold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.doctorImage {
+  width: 369px;
+  height: 414px;
+  background: url("../images/doctorLogin.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: scroll;
+}
+.patient {
+  width: 387px;
+  height: 450px;
+  /*background: url(../images/v23_586.png);*/
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 190px;
+  left: 830px;
+  overflow: scroll;
+}
+.patientLoginText {
+  width: 219px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 401px;
+  left: 83px;
+  font-family: Inter;
+  font-weight: Bold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}

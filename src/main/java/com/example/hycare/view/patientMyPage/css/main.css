@@ -1,0 +1,320 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.doctorPage {
+  width: 100%;
+  height: 795px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.patientTbl {
+  width: 100%;
+  height: 440px;
+  background: rgba(255,255,255,0);
+  opacity: 1;
+  position: absolute;
+  top: 274px;
+  left: 100px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  overflow: hidden;
+}
+.searchBar {
+  width: 100%;
+  height: 58px;
+  /*background: url("../images/v58_583.png");*/
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 154px;
+  left: 100px;
+  overflow: hidden;
+}
+.v20_244 {
+  width: 100%;
+  height: 58px;
+  background: rgba(124,252,0,0);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  border: 1px solid rgba(54,188,67,1);
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  overflow: hidden;
+}
+.searchDiag {
+  width: 542px;
+  height: 34px;
+  /*background: url("../images/v20_242.png");*/
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 11px;
+  left: 656px;
+  overflow: hidden;
+}
+.diagDate1 {
+  width: 197px;
+  height: 33px;
+  background: rgba(124,252,0,0);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 344px;
+  border: 1px solid rgba(171,174,176,1);
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  overflow: hidden;
+}
+.fromTo {
+  width: 39px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 0px;
+  left: 300px;
+  font-family: Inter;
+  font-weight: Extra Light;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.diagDate2 {
+  width: 197px;
+  height: 33px;
+  background: rgba(124,252,0,0);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 99px;
+  border: 1px solid rgba(171,174,176,1);
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  overflow: hidden;
+}
+.diagDateText {
+  width: 79px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 3px;
+  left: 0px;
+  font-family: Inter;
+  font-weight: Extra Light;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.searchName {
+  width: 277px;
+  height: 33px;
+  /*background: url("../images/v20_233.png");*/
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 11px;
+  left: 7px;
+  overflow: hidden;
+}
+.name {
+  width: 197px;
+  height: 33px;
+  background: rgba(124,252,0,0);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 90px;
+  border: 1px solid rgba(171,174,176,1);
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  overflow: hidden;
+}
+.doctorNameText {
+  width: 90px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 2px;
+  left: 0px;
+  font-family: Inter;
+  font-weight: Extra Light;
+  font-size: 18px;
+  opacity: 1;
+  text-align: center;
+}
+.v57_687 {
+  width: 27px;
+  height: 30px;
+  background: url("../images/v57_687.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 12px;
+  left: 1237px;
+  overflow: hidden;
+}
+.v57_686 {
+  width: 27px;
+  height: 30px;
+  background: rgba(0,0,0,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+}
+.navBar {
+  width: 100%;
+  height: 93px;
+  /*background: url("../images/v12_14.png");*/
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v12_15 {
+  width: 100%;
+  height: 93px;
+  background: rgba(50,205,50,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.memberName {
+  width: 74px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 33px;
+  left: 1334px;
+  font-family: DM Sans;
+  font-weight: Bold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.logo {
+  width: 182px;
+  height: 47px;
+  /*background: url("../images/v12_17.png");*/
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 22px;
+  left: 127px;
+  overflow: hidden;
+}
+.logoText {
+  width: 182px;
+  color: rgba(255,255,255,1);
+  position: relative;
+  top: 0px;
+  left: 0px;
+  font-family: DM Sans;
+  font-weight: Medium;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
+.menu {
+  width: 596px;
+  height: 31px;
+  /*background: url("../images/v12_19.png");*/
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 33px;
+  left: 494px;
+  overflow: hidden;
+}
+.home {
+  width: 23px;
+  color: rgba(255,255,255,1);
+  position: relative;
+  top: 0px;
+  left: 0px;
+  font-family: DM Sans;
+  font-weight: Bold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.chat {
+  width: 89px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 0px;
+  left: 373px;
+  font-family: DM Sans;
+  font-weight: Bold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.stt {
+  width: 89px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 0px;
+  left: 507px;
+  font-family: DM Sans;
+  font-weight: Bold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.guide {
+  width: 67px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 0px;
+  left: 103px;
+  font-family: DM Sans;
+  font-weight: Bold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.self {
+  width: 89px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 0px;
+  left: 227px;
+  font-family: DM Sans;
+  font-weight: Bold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
